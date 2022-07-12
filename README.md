@@ -12,3 +12,5 @@
 * [The driver supports ROS2](https://github.com/WannaSleep3254/sick_scan2)
 
 ### SICK_SAFTEYSCANNERS
+* [The driver supports ROS1](https://github.com/WannaSleep3254/sick_safetyscanners)
+* [The driver supports ROS2](https://github.com/WannaSleep3254/sick_safetyscanners2)
