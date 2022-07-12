@@ -14,3 +14,7 @@
 ### SICK_SAFTEYSCANNERS
 * [The driver supports ROS1](https://github.com/WannaSleep3254/sick_safetyscanners)
 * [The driver supports ROS2](https://github.com/WannaSleep3254/sick_safetyscanners2)
+
+## Pepperl+Fuchs
+* [The official driver](https://github.com/WannaSleep3254/pf_lidar_ros_driver)
+* [The unofficial driver](https://github.com/WannaSleep3254/pepperl_fuchs)
