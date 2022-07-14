@@ -1,7 +1,7 @@
-# 저장소 목록
+# # Lists of All Forked Repository
 
 <details>
-  <summary>센서</summary>
+  <summary>센서 (Sensor) </summary>
   <div markdown="1">
   
   ## realsense
@@ -29,7 +29,7 @@
 
 
 <details>
-  <summary>통신</summary>
+  <summary>통신 (Protocol) </summary>
   <div markdown="1">
      
   ## EtherCat
