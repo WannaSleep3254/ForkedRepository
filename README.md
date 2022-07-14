@@ -1,4 +1,4 @@
-# Lists of All Forked Repository
+# 저장소 목록
 
 <details>
   <summary>센서</summary>
