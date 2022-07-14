@@ -1,8 +1,8 @@
 # Lists of All Forked Repository
-# 센서
+
 <details>
-    <summary>펼치기</summary>
-    
+<summary>센서</summary>
+<div markdown="1">
 ## realsense
 * [librealsense](https://github.com/WannaSleep3254/librealsense)
 
@@ -22,14 +22,15 @@
 ## Pepperl+Fuchs
 * [The official driver](https://github.com/WannaSleep3254/pf_lidar_ros_driver)
 * [The unofficial driver](https://github.com/WannaSleep3254/pepperl_fuchs)
-
+</div>
 </details>
 
-# 통신
-  <details>
-    <summary>펼치기</summary>
 
+<details>
+<summary>통신</summary>
+<div markdown="1">
 ## EtherCat
 * [EatherCAT Master](https://github.com/WannaSleep3254/SOEM)
 * [EatherCAT Slave](https://github.com/WannaSleep3254/SOES)
+</div>
 </details>
