@@ -18,3 +18,7 @@
 ## Pepperl+Fuchs
 * [The official driver](https://github.com/WannaSleep3254/pf_lidar_ros_driver)
 * [The unofficial driver](https://github.com/WannaSleep3254/pepperl_fuchs)
+
+## EtherCat
+* [EatherCAT Master](https://github.com/WannaSleep3254/SOEM)
+* [EatherCAT Slave](https://github.com/WannaSleep3254/SOES)
