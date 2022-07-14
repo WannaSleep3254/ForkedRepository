@@ -1,7 +1,8 @@
 # Lists of All Forked Repository
-# Sensor
+# 센서
 <details>
-    <summary>자세히</summary>
+    <summary>펼치기</summary>
+    
 ## realsense
 * [librealsense](https://github.com/WannaSleep3254/librealsense)
 
@@ -24,9 +25,9 @@
 
 </details>
 
-# Communiaction
+# 통신
   <details>
-    <summary>자세히</summary>
+    <summary>펼치기</summary>
 
 ## EtherCat
 * [EatherCAT Master](https://github.com/WannaSleep3254/SOEM)
