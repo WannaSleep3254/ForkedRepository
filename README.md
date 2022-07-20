@@ -31,7 +31,12 @@
 <details>
   <summary>통신 (Protocol) </summary>
   <div markdown="1">
-     
+
+  ## Modbus
+  * libmodbus:[info](https://libmodbus.org/) , [github](https://github.com/WannaSleep3254/libmodbus)
+  
+  ## Serial
+  * serial: [serial](https://github.com/WannaSleep3254/serial)
   ## EtherCat
   * [EatherCAT Master](https://github.com/WannaSleep3254/SOEM)
   * [EatherCAT Slave](https://github.com/WannaSleep3254/SOES)
